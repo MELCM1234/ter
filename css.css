@@ -1,0 +1,55 @@
+.taskbar {
+  background-color: #333333; 
+  padding: 10px; 
+  display: flex; 
+  justify-content: space-around; 
+  color: white; 
+}
+ .taskbar a {
+  text-decoration: none; 
+  color: white; 
+  padding: 10px; 
+ }
+ 
+ .taskbar a:hover {
+  background-color: #555; 
+ }
+
+
+
+h1{
+  color:white;
+  text-shadow: 1px 2px 2px black, 0 0 25px blue, 0 0 5px blue;
+  text-align: center;
+}
+div.index{
+  margin: 10px 20px;
+  box-shadow: yellow;
+  float: left;
+  width: 350px;
+
+}
+div.index img{
+  width: 100%;
+  height: auto;
+}
+div.index:hover{
+border: 1px solid rgb(178, 32, 146);
+transform: rotate(-3deg);
+}
+div.pie{
+  text-align: center;
+  text-shadow: 2px 2px 5px purple;
+  padding: 10px;
+}
+h1{
+  font-family: "Poppins", sans-serif;
+    
+}img {
+  filter: brightness(150%);
+ }
+h2{
+  font-family: "Poppins", sans-serif;
+    
+}
+
